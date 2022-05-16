@@ -15,7 +15,7 @@ Make Directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-A container which holds nearly all other tags that make up your webpage
+A container which holds tags that make up your webpage
 ```
 
 **4.** What does `HTML` stand for?
@@ -56,17 +56,17 @@ Body tag
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+UL (unordered list) OL (ordered list) and DL (description list)
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+It allows a flex element to grow or shrink and orient differently in the space provided in its container.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+Margin, Border, Padding, and Content.
 ```
